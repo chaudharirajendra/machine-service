@@ -1,0 +1,15 @@
+[
+    {
+      "id": "12345",
+      "name": "Machine A",
+      "location": "Floor 1",
+      "details": "High-performance machine."
+    },
+    {
+      "id": "67890",
+      "name": "Machine B",
+      "location": "Floor 2",
+      "details": "Standard efficiency machine."
+    }
+  ]
+  
